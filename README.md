@@ -54,7 +54,7 @@ int main(void)
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/B3TA-BLOCKER/hello-world.git
-    cd hello_world
+    cd hello-world
     ```
 
 2. **Install `gcc`** (if not already installed):
