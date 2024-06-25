@@ -48,25 +48,43 @@ int main(void)
 }
 ```
 
+
 ## 🚀 How to Run
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/B3TA-BLOCKER/hello-world.git
-    cd hello-world
+    git clone https://github.com/yourusername/hello-world-animation.git
+    cd hello-world-animation
     ```
 
-2. **Compile the Code**:
+2. **Install `gcc`** (if not already installed):
+
+    - **Ubuntu/Debian**:
+        ```sh
+        sudo apt update
+        sudo apt install gcc
+        ```
+
+    - **MacOS**:
+        ```sh
+        xcode-select --install
+        ```
+
+    - **Windows**:
+        Download and install [MinGW](https://sourceforge.net/projects/mingw/).
+
+3. **Compile the Code**:
     ```sh
-    gcc hello world.c -o main
+    gcc -o hello hello.c
     ```
 
-3. **Run the Program**:
+4. **Run the Program**:
     ```sh
-    ./main
+    ./hello
     ```
 
 Sit back and enjoy the animation! 🎉
+
 
 ## 🎨 Customization
 
