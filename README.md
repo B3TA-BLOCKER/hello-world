@@ -58,12 +58,12 @@ int main(void)
 
 2. **Compile the Code**:
     ```sh
-    gcc -o hello hello.c
+    gcc hello world.c -o main
     ```
 
 3. **Run the Program**:
     ```sh
-    ./hello
+    ./main
     ```
 
 Sit back and enjoy the animation! 🎉
