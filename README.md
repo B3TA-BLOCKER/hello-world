@@ -53,7 +53,7 @@ int main(void)
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/hello-world-animation.git
+    git clone https://github.com/B3TA-BLOCKER/hello-world.git
     cd hello_world
     ```
 
