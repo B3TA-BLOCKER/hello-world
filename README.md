@@ -52,8 +52,8 @@ int main(void)
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/hello-world-animation.git
-    cd hello-world-animation
+    git clone https://github.com/B3TA-BLOCKER/hello-world.git
+    cd hello-world
     ```
 
 2. **Compile the Code**:
