@@ -48,7 +48,9 @@ int main(void)
     while (word[10] != 'd') { word[10]++; usleep(100000); printf("%s\n", word); }
 }
 ```
-![Hello World Animation](https://github.com/B3TA-BLOCKER/hello-world/blob/main/hello_world.gif)
+<p align="center">
+  <img src="https://github.com/B3TA-BLOCKER/hello-world/blob/main/hello_world.gif" alt="Hello World Animation">
+</p>
 
 ## 🚀 How to Run
 
