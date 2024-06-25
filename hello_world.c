@@ -9,6 +9,7 @@ int main(void)
     for (int i = 0; i < 11; i++) word[i] = ' '; // initialize the array with spaces
     word[11] = '\0'; // Null-terminate the string
 
+    printf("\033[H\033[J"); // Clear the screen
     printf("%s\n", word);
     word[0] += 64;
     while (word[0] != 'h') { word[0]++; usleep(100000); printf("%s\n", word); }
