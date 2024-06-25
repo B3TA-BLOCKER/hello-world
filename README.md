@@ -54,7 +54,7 @@ int main(void)
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/yourusername/hello-world-animation.git
-    cd hello-world-animation
+    cd hello_world
     ```
 
 2. **Install `gcc`** (if not already installed):
@@ -75,7 +75,7 @@ int main(void)
 
 3. **Compile the Code**:
     ```sh
-    gcc -o hello hello.c
+    gcc -o hello hello_world.c
     ```
 
 4. **Run the Program**:
