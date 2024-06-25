@@ -24,6 +24,7 @@ int main(void)
     for (int i = 0; i < 11; i++) word[i] = ' ';
     word[11] = '\0';
 
+    printf("\033[H\033[J"); 
     printf("%s\n", word);
     word[0] += 64;
     while (word[0] != 'h') { word[0]++; usleep(100000); printf("%s\n", word); }
