@@ -48,7 +48,7 @@ int main(void)
     while (word[10] != 'd') { word[10]++; usleep(100000); printf("%s\n", word); }
 }
 ```
-
+![Hello World Animation](URL_TO_YOUR_GIF_HERE)
 
 ## 🚀 How to Run
 
