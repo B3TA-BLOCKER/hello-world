@@ -1,7 +1,8 @@
+<div align="center">
+  <h1>🖥️ Hello World</h1>
+  <strong>This fun and quirky code animates the famous "Hello World" message one character at a time in your terminal. 🌟</strong>
+</div>
 
-# 🖥️ Hello World
-
-Welcome to the **Hello World Animation** project! This fun and quirky code animates the famous "Hello World" message one character at a time in your terminal. 🌟
 
 ## 📋 Overview
 
